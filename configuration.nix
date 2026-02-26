@@ -48,9 +48,6 @@
 
   services.displayManager.ly.enable = true;
 
-  services.displayManager.autoLogin.enable = true;
-  services.displayManager.autoLogin.user = "z20";
-
   # Configure keymap in X11
   # services.xserver.xkb.layout = "us";
   # services.xserver.xkb.options = "eurosign:e,caps:escape";
